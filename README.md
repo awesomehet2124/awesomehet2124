@@ -8,7 +8,7 @@ Contact me :
 
 - 🔭 I’m currently working on my [discord bot - SabreBOT]()
 
-- 🌱 I’m currently learning **Discord.py, Kivy, Jave**
+- 🌱 I’m currently learning **Discord.py, Kivy, Java**
 
 - ⚡ More about me **I love fps games and minecraft**
 
